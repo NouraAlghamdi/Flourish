@@ -8,3 +8,10 @@ pillow==13.0.0
 plotly==7.1.0
 streamlit==1.66.1
 tensorflow==2.21.0
+google-api-core==2.43.0
+google-api-python-client==2.201.0
+google-auth==2.62.0
+google-auth-httplib2==0.4.4
+google-auth-oauthlib==1.5.0
+google-pasta==0.2.0
+googleapis-common-protos==1.76.0
